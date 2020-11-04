@@ -2,7 +2,7 @@
 ---
 <img src="https://github.com/ruanox96/JuegoTrivial/blob/main/recursos/trivial.jpg" width="200" height="200"/>
 🎁🤞Bienvenido al Trivial de Antonio Ruiz-Ruano Alcalá-Zamora🤞🎁
-
+---
 ✔La temática de este juego es sobre preguntas de historia(cultura general)
 
 ✔Las instrucciones son faciles, tienes que conseguir 7 puntos o mas para ganar
